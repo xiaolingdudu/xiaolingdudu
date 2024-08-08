@@ -1,10 +1,10 @@
 
 
-Hi there 👋, I'm ZS.
-- 😄 I am now a student at Nanjing Agricultural University.
-- 🔭 My research interests include lightweight semantic segmentation, medical image processing, LLM, and plant phenotyping analysis.
-- 📫 How to reach me: 202205570112@smail.xtu.edu,cn
-- 😄 Read more about my blog: [ZSの博客 - 荒岛](https://zsspce.top/)
+Hi there 👋, I'm ZY.
+- 😄 I am now a student at XiangTan University.
+- 🔭 My research interests include Nonlinear, Neuron model, Multimodal video-text retrieval, Deep learning.
+- 📫 How to reach me: 202205570112@smail.xtu.edu.cn
+- 😄 Read more about my blog: [ZYの博客 - 荒岛](https://xiaolingdudu.github.io/)
 
 
 
