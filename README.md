@@ -10,7 +10,7 @@ Hi there 👋, I'm ZY.
 
 
 <p align="center">
-<a href="https://github.com/xiaolingdudu"><img src="https://img.shields.io/badge/GitHub-ZS1314-blue?logo=github" /></a>
+<a href="https://github.com/xiaolingdudu"><img src="https://github.com/xiaolingdudu" /></a>
 
 <img src="https://img.shields.io/badge/QQ-2532471997-green?logo=tencentqq" />
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
