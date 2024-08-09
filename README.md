@@ -1,5 +1,5 @@
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello World;Second+line+of+text)](https://git.io/typing-svg)
 Hi there 👋, I'm ZY.
 - 😄 I am now a student at XiangTan University.
 - 🔭 My research interests include Nonlinear, Neuron model, Multimodal video-text retrieval, Deep learning.
