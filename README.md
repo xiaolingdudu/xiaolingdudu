@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World;Infinite+progress)](https://git.io/typing-svg)
 Hi there 👋, I'm ZY.
 - 😄 I am now a student at XiangTan University.
-- 🔭 My research interests include Nonlinear, Neuron model, Multimodal video-text retrieval, Deep learning.
+- 🔭 My research interests include Safe Latent Diffusion, Nonlinear, Multimodal video-text retrieval, Deep learning.
 - 📫 How to reach me: 202205570112@smail.xtu.edu.cn
 - 😄 Read more about my blog: [ZYの博客 - 荒岛](https://xiaolingdudu.github.io/)
 
