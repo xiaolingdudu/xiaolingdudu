@@ -1,22 +1,25 @@
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World;Infinite+progress)](https://git.io/typing-svg)
-Hi there 👋, I'm ZY.
-- 😄 I am now a student at XiangTan University.
-- 🔭 My research interests include secure latent diffusion, nonlinearity, low-level, and deep learning.
-- 📫 How to reach me: 202205570112@smail.xtu.edu.cn
-- 😄 Read more about my blog: [ZYの博客 - 荒岛](https://xiaolingdudu.github.io/)
 
+# Hi there 👋, I'm ZY.
 
-
+* 🎓 I am currently a student at the University of Science and Technology of China.
+* 🔭 My research interests focus on GUI agents, large language models, and recommender systems.
+* 📫 How to reach me: [yizou1111@gmail.com](mailto:yizou1111@gmail.com)
 
 <p align="center">
-<a href="https://github.com/xiaolingdudu"><img src="https://img.shields.io/badge/GitHub-xiaolingdudu-blue?logo=github" /></a>
+  <a href="https://github.com/xiaolingdudu">
+    <img src="https://img.shields.io/badge/GitHub-xiaolingdudu-blue?logo=github" />
+  </a>
 
-<img src="https://img.shields.io/badge/QQ-2532471997-green?logo=tencentqq" />
-<!-- https://github.com/antonkomarev/github-profile-views-counter -->
-<img src="https://komarev.com/ghpvc/?username=ZS1314&abbreviated=true&color=yellow" />
+  <img src="https://img.shields.io/badge/QQ-2532471997-green?logo=tencentqq" />
+
+  <!-- GitHub profile views counter -->
+
+  <img src="https://komarev.com/ghpvc/?username=ZS1314&abbreviated=true&color=yellow" />
 </p>
-<!-- https://github.com/kyechan99/capsule-render -->
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You!
-
+<p align="center">
+  You are my
+  <img src="https://profile-counter.glitch.me/wisdom-zhe/count.svg" alt="Visitor Count" />
+  visitor. Thank you!
+</p>
